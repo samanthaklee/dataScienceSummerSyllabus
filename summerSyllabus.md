@@ -20,9 +20,9 @@ Get thinking about a potential project for this summer! Here are some resources 
 
 Links to Resources to resources discussed in meeting:
 
-[**R/RStudio**](https://www.rstudio.com/)
-[**Python**](https://www.python.org/)
-[**Inertia7**](http://www.inertia7.com/)
-[**GitHub**](https://github.com/)
-[**Slack**](https://slack.com/)
+[**R/RStudio**](https://www.rstudio.com/) <br />
+[**Python**](https://www.python.org/) <br /> 
+[**Inertia7**](http://www.inertia7.com/) <br />
+[**GitHub**](https://github.com/) <br />
+[**Slack**](https://slack.com/) <br />
 [**DataCamp**](https://www.datacamp.com/)
