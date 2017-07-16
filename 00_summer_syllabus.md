@@ -11,18 +11,18 @@
 * Summer meetups  
 
 ### Sign Ups
-If you think you are going to participate in a weeklyproject group, please add your contact info here to ge important updates and announcements. 
+If you think you are going to participate in a weekly project group, please add your contact info here to ge important updates and announcements. 
 
 [Link](https://docs.google.com/forms/d/e/1FAIpQLSec_FlDtxTTYMowhXhOU1bseNza-5zPbkaQGSmIDvLaH_A0tQ/viewform) 
 
 ### Resources
 Get thinking about a potential project for this summer! Here are some resources to get you started:
 
-Links to Resources to resources discussed in meeting:
+Links to Resources discussed in meeting:
 
-[**R/RStudio**](https://www.rstudio.com/) <br />
-[**Python**](https://www.python.org/) <br /> 
-[**Inertia7**](http://www.inertia7.com/) <br />
-[**GitHub**](https://github.com/) <br />
-[**Slack**](https://slack.com/) <br />
-[**DataCamp**](https://www.datacamp.com/)
++ [**R/RStudio**](https://www.rstudio.com/) <br />
++ [**Python**](https://www.python.org/) <br />  
++ [**Inertia7**](http://www.inertia7.com/) <br />
++ [**GitHub**](https://github.com/) <br />
++ [**Slack**](https://slack.com/) <br />
++ [**DataCamp**](https://www.datacamp.com/)
