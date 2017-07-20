@@ -1,11 +1,10 @@
 # Summer Project Group - Data Science at UCSB 
 
 ## **Announcements**
-### Django Girls opportunity 
-+ [Website](https://djangogirls.org/)
-+ Time and Date : Fall Quarter
-+ Location TBA
-
++ Django Girls opportunity 
+	+ [Website](https://djangogirls.org/)
+	+ Time and Date : Fall Quarter
+	+ Location TBA
 + Django crash course! (This is what inertia7 is built on)
 + Contact us if you are interested in becoming a coach  
   
@@ -14,7 +13,7 @@
 
 ### Markdown format 
 + Markdown is a way to write content for the web. It is written in plaintext. 
-+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
++ [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 #### Activity 
 + Create your own branch on [Github](https://github.com/samanthaklee/Hello-World-Summer-2017/tree/master) and push a markdown introduction about yourself on there 
 + Include
@@ -58,6 +57,6 @@ Establish channels for communication:
 + GroupMe
 + *Facebook
 
-##Sign Ups
+## Sign Ups
 
 + [Link to sign up for the email list for the group](https://docs.google.com/forms/d/e/1FAIpQLSec_FlDtxTTYMowhXhOU1bseNza-5zPbkaQGSmIDvLaH_A0tQ/viewform) 

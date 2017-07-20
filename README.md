@@ -7,7 +7,7 @@ Weekly syllabus for the summer project group. Updated with announcements, import
 
 #### Resources
 
-[**Data Science at UCSB**](http://datascience.pstat.ucsb.edu/) <br />
-[**Inertia7**](http://www.inertia7.com/) <br />
-[**GitHub**](https://github.com/) <br />
-[**DataCamp**](https://www.datacamp.com/)
+[Data Science at UCSB](http://datascience.pstat.ucsb.edu/) <br />
+[Inertia7](http://www.inertia7.com/) <br />
+[GitHub](https://github.com/) <br />
+[DataCamp](https://www.datacamp.com/)
