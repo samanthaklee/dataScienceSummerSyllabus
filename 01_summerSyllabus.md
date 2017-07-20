@@ -1,13 +1,18 @@
 # Summer Project Group - Data Science at UCSB 
 
 ## **Announcements**
-+ Django Girls opportunity 
+### Django Girls opportunity 
++ Approval to host event in Santa Barbara
 	+ [Website](https://djangogirls.org/)
 	+ Time and Date : Fall Quarter
 	+ Location TBA
 + Django crash course! (This is what inertia7 is built on)
 + Contact us if you are interested in becoming a coach  
-  
+
+### Life Chronicles App Development Opportunity
++ Start conversation to gain interest in [http://www.lifechronicles.org/](App)
++ Meeting after today's meeting 
++ Interested please stay after to talk to Ravi, Arthur and Timmy
 
 ## **LEARN SOMETHING WITH DATA SCIENCE @ UCSB** 
 
