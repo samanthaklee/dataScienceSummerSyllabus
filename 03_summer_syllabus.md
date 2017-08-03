@@ -17,6 +17,7 @@
 ## Project Iterations
 + Needed by the end of today:
 	+ requirements.txt
+	+ Repo organized exactly or similar structure to example repo provided above
 	+ Clear project goal on repo
 	+ fork repo unto [Organizational Repo](https://github.com/UCSB-dataScience-ProjectGroup)
 
