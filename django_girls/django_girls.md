@@ -10,7 +10,10 @@ Collaborate and move forward event and logistics pertaining to event. Topics of 
 ## First Cycle of Coaching
 
 + Starting week of 8/28 
-+ Many of us have been able to start and implement Django, shameless plug [Raul's Site](http://rauleulogio.com/)
++ Many of us have been able to start and implement Django, shameless plugs
+	+ [My Site](http://rauleulogio.com/)
+	+ [David's Site](https://www.davidacampos.com/)
+	+ [Vince's Site](http://vincela.com/)
 + Need a representative from orgs to be able to attend, so we need to set a time and date for this
 
 ## Agenda
