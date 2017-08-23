@@ -19,7 +19,7 @@ Collaborate and move forward event and logistics pertaining to event. Topics of 
 ## Agenda
 
 + Communication to org 
-+ Basic Logisitcs
++ Basic Logistics
 	+ Set official Timelines
 	+ Location
 	+ Food provided
